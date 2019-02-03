@@ -1,0 +1,47 @@
+h1  {color: rgb(150, 62, 40);
+    background-color: rgb(150, 144, 144);
+    text-align: center}
+h3 {
+    color: rgb(150, 62, 40);
+    text-align: center}
+}
+
+table thead {
+    background-color: rgb(160, 122, 17);
+    color: white;   
+}
+
+table { align-content: center;
+
+}
+}
+
+table button {background-color: rgb(133, 81, 32);
+}
+
+.select:hover {border: 1px rgb(61, 124, 64);
+    box-shadow: -5px 5px 3px rgb(80, 80, 116)}
+
+.menu li { 
+ display: inline-block; 
+ padding: 7px 25px;
+ border-right: 1px solid gray;
+ list-style-type: none;
+}
+
+.menu {
+    margin-top: 5px;
+}
+
+.menu li:hover {
+    color: rgb(26, 27, 134);
+    font-weight: bold; 
+    background-color: #aaa;
+}
+
+form {
+    border: 1px solid rgb(83, 76, 76);
+    margin: 30px;
+    padding: 30px;
+
+}
